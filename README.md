@@ -11,3 +11,9 @@ This is used to learn the basics of a repository
 
 ## Notes
 This is only a practice
+
+## Updates
+### Update 1 
+- Created a python file
+### Update 2
+- Uploaded an image file
